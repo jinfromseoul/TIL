@@ -139,3 +139,11 @@ $ git push origin master
 
 
 
+#### 3. Pull - 원격 저장소로부터 불러오기
+
+```bash
+$ git pull origin master
+```
+
+`origin` 이라는 이름의 원격 저장소로부터 새로운 commit 기록들을 불러온다.
+
